@@ -6,6 +6,8 @@ public class ProyectoJava {
 		
 		System.out.print("Hola");
 		
+		System.out.print("Adiós");
+		
 	}
 
 }
